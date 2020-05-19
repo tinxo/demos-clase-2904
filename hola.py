@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 print('hola mundo')
 # comentario
 # segundo comentario
